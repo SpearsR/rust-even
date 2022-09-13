@@ -2,6 +2,9 @@
 name = "testtest"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ryan Spears"]
+description = "Determines if a number is odd or even."
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
